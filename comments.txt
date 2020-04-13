@@ -1,0 +1,8 @@
+/16 address ?? https://www.ripe.net/about-us/press-centre/understanding-ip-addressing
+
+
+===============================Answers ========================
+
+Group number : 8
+Group member emails : gilles.charlier@student.uclouvain.be
+
